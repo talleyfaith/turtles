@@ -7,10 +7,10 @@ GREEN = (0, 255, 0)
 
 colormode(255)
 
-t = Turtle()
-t.forward(100)
-t.right(90)
-t.forward(100)
-t.pencolor(RED)
+
+forward(100)
+right(90)
+forward(100)
+pencolor(RED)
 
 done()
